@@ -1,0 +1,10 @@
+
+**** Rebuild of configuration Debug for project 11362 - Phone List UVA ****
+
+**** Internal Builder is used for build               ****
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o src\11362 - Phone List UVA.o ..\src\11362 - Phone List UVA.cpp
+..\src\11362 - Phone List UVA.cpp: In function 'int main()':
+..\src\11362 - Phone List UVA.cpp:31: warning: comparison between signed and unsigned integer expressions
+g++ -o 11362 - Phone List UVA.exe src\11362 - Phone List UVA.o
+Build complete for project 11362 - Phone List UVA
+Time consumed: 1417  ms.  

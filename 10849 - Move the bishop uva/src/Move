@@ -1,0 +1,36 @@
+1 //test case
+16 // the number of tests for that case.
+5 //chess board with NxN squares
+
+1 1 1 1
+0
+1 1 2 1
+no move
+1 1 1 2
+no move
+1 1 2 2
+1
+1 1 6 1
+no move
+1 1 1 3
+2
+1 1 3 1
+2
+2 1 3 1
+no move
+2 1 3 2
+1
+2 1 2 3
+2
+1 1 5 5
+1
+1 2 5 4
+2
+1 1 1 5
+2
+1 2 1 5
+no move
+2 2 2 2
+0
+6 3 1 4
+no move

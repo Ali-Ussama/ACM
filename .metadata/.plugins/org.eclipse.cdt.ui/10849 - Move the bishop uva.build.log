@@ -1,0 +1,16 @@
+
+**** Rebuild of configuration Debug for project 10849 - Move the bishop uva ****
+
+**** Internal Builder is used for build               ****
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o src\10849 - Move the bishop uva.o ..\src\10849 - Move the bishop uva.cpp
+..\src\10849 - Move the bishop uva.cpp: In function 'int main()':
+..\src\10849 - Move the bishop uva.cpp:18: error: call of overloaded 'abs(long long int)' is ambiguous
+c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.4.1/include/c++/cmath:94: note: candidates are: double std::abs(double)
+c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.4.1/include/c++/cmath:98: note:                 float std::abs(float)
+c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.4.1/include/c++/cmath:102: note:                 long double std::abs(long double)
+..\src\10849 - Move the bishop uva.cpp:18: error: call of overloaded 'abs(long long int)' is ambiguous
+c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.4.1/include/c++/cmath:94: note: candidates are: double std::abs(double)
+c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.4.1/include/c++/cmath:98: note:                 float std::abs(float)
+c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.4.1/include/c++/cmath:102: note:                 long double std::abs(long double)
+Build error occurred, build is stopped
+Time consumed: 1194  ms.  
